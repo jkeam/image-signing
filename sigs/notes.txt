@@ -1,0 +1,5 @@
+hello-node 
+http://localhost:8082/artifactory/generic-local/jkeam/hello-node%40sha256%3D2cbdb73c9177e63e85d267f738e99e368db3f806eab4c541f5c6b719e69f1a2b
+
+hello-python
+http://localhost:8082/artifactory/generic-local/jkeam/hello-python%40sha256%3D43910453e184bb6a856dc59630fa73e2b607ea17e35203760f959e4f6712f918

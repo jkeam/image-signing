@@ -1,0 +1,3 @@
+docker:
+    quay.io:
+      sigstore: http://admin:rootpassword@YOUR_IP:8082/artifactory/generic-local
